@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid #ddd; /* Light gray border for all elements */
+  }
+
+  tr:hover {
+    background-color: #e2e2e2; /* Highlight the row on hover */
+  }
+
+  th, td {
+    padding: 8px; /* Add padding inside cells */
+    text-align: left; /* Align text to the left */
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures no gaps between table borders */
+  }
